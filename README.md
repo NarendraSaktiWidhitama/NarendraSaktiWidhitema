@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms3bXN5Z3R5NXA0eXp6bnd6OHg0eG94M3R6bnd6b3h6bnd6b3h6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y34mR8Z5v3EoQD286F/giphy.gif" width="350" alt="Cyber Coder" />
+<img src="Gambar.png" width="100%" alt="Cyber Green Developer" />
 
 <br/><br/>
 
@@ -8,8 +8,8 @@
 ### ⚡ Full-Stack Web Developer | Tech Enthusiast | Cyber Surfer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/[CYBER--SECURITY]-🔒-00FFFF?style=flat-square" />  
-  <img src="https://img.shields.io/badge/[ADVANCED--AI]-🤖-FF00FF?style=flat-square" />  
+  <img src="https://img.shields.io/badge/[CYBER--SECURITY]-🔒-00FF00?style=flat-square" />  
+  <img src="https://img.shields.io/badge/[ADVANCED--AI]-🤖-00FF00?style=flat-square" />  
   <img src="https://img.shields.io/badge/[DATA--HARVESTER]-💾-00FF00?style=flat-square" />
 </p>
 
