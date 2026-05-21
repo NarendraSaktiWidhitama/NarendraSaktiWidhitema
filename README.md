@@ -1,9 +1,17 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwN3Z0MXRib3g3Y25nMm9xY2Z3M3Nnbm95N3pndmN2M3pwdW04eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Cyber Surfer Banner" />
 
-# Hi, I'm Narendra Sakti! 👋
-### 🚀 Full-Stack Web Developer | Tech Enthusiast
+<br/><br/>
+
+# 🌐 Hi, I'm Narendra Sakti! 👋
+### ⚡ Full-Stack Web Developer | Tech Enthusiast | Cyber Surfer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/[CYBER--SECURITY]-🔒-00FFFF?style=flat-square" />  
+  <img src="https://img.shields.io/badge/[ADVANCED--AI]-🤖-FF00FF?style=flat-square" />  
+  <img src="https://img.shields.io/badge/[DATA--HARVESTER]-💾-00FF00?style=flat-square" />
+</p>
 
 <br/>
 
