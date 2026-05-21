@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms3bXN5Z3R5NXA0eXp6bnd6OHg0eG94M3R6bnd6b3h6bnd6b3h6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y34mR8Z5v3EoQD286F/giphy.gif" width="350" alt="Cyber Coder" />Animation" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms3bXN5Z3R5NXA0eXp6bnd6OHg0eG94M3R6bnd6b3h6bnd6b3h6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y34mR8Z5v3EoQD286F/giphy.gif" width="350" alt="Cyber Coder" />
 
 <br/><br/>
 
