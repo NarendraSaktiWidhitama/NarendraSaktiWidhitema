@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW01M3N5bHd0Yjd3M3R6ODN0bDRpYWh6M2J4bWZ6M3IyeXN3bnd3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y34mR8Z5v3EoQD286F/giphy.gif" width="320" alt="Cyber Developer Animation" />
+<img src="https://assets.ccbp.in/frontend/content/react-js/coding-backend-dynamic-web-application-bg.gif" width="380" alt="Cyber Developer Animation" />
 
 <br/><br/>
 
