@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Gambar.png" width="100%" alt="Cyber Green Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50" width="100%" />
 
 <br/><br/>
 
